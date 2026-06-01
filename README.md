@@ -42,7 +42,7 @@ It ensures zero-downtime deployment by running two identical environments (Blue 
    <img width="749" height="110" alt="image" src="https://github.com/user-attachments/assets/7fb0e35d-7aa8-4055-980c-13e492263aa9" />
 
 **service pods**
-   <img width="970" height="127" alt="image" src="https://github.com/user-attachments/assets/cd04743d-a912-4f96-9b55-423f7207aa3a" />
+  <img width="970" height="127" alt="image" src="https://github.com/user-attachments/assets/cd04743d-a912-4f96-9b55-423f7207aa3a" />
 
 **switced from frontend services blue to green**
    <img width="1445" height="73" alt="image" src="https://github.com/user-attachments/assets/c717a40b-01d2-4f7e-8c80-750a2d3dab91" />

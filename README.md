@@ -5,7 +5,7 @@
 This project demonstrates a **Blue-Green Deployment strategy using Kubernetes**.  
 It ensures zero-downtime deployment by running two identical environments (Blue and Green) and switching traffic between them using a Kubernetes Service.
 
-**Architecture**
+**Architecture** 
 
 **Frontend (Blue Version)** – 
 **Frontend (Green Version)** –

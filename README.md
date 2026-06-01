@@ -62,7 +62,7 @@ Backend pods running
 
    <img width="749" height="110" alt="image" src="https://github.com/user-attachments/assets/7fb0e35d-7aa8-4055-980c-13e492263aa9" />
 
-srvice pods
+service pods
 
 
    <img width="970" height="127" alt="image" src="https://github.com/user-attachments/assets/cd04743d-a912-4f96-9b55-423f7207aa3a" />

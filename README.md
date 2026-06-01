@@ -13,7 +13,7 @@ Architecture
 - **Kubernetes Service (NodePort)** –
 
 - Project Structure
-
+zx
 - Blue-green-Deployment/
 │
 ├── k8s/

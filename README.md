@@ -50,7 +50,7 @@ kubernetes Manifest files
 
    frontend-blue-deployment file
 
-        <img width="1817" height="508" alt="image" src="https://github.com/user-attachments/assets/e251ea5f-8244-4d52-b11d-dc5f576e6152" />
+   <img width="1817" height="508" alt="image" src="https://github.com/user-attachments/assets/e251ea5f-8244-4d52-b11d-dc5f576e6152" />
 
  frontend-green-deployment file
     <img width="1819" height="499" alt="image" src="https://github.com/user-attachments/assets/4db7dfe9-261b-4a03-bcc0-5f8508c2cc83" />

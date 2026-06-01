@@ -36,10 +36,25 @@ mongodb connections
 
    <img width="1869" height="619" alt="image" src="https://github.com/user-attachments/assets/5de415a1-809e-4899-89e0-1969bc0331cf" />
 
+Docker images
+   <img width="1625" height="254" alt="image" src="https://github.com/user-attachments/assets/543f28f6-2e21-4f11-81c0-3c5fe64fff9d" />
+
 
 Created docker container
 
    <img width="1835" height="285" alt="image" src="https://github.com/user-attachments/assets/c0a35b2f-8f00-4b3a-971e-2481d1093e7c" />
+
+kubernetes Manifest files
+
+   <img width="1044" height="165" alt="image" src="https://github.com/user-attachments/assets/f1fdc2d9-d3d6-4408-909d-fa6dc5449335" />
+
+   frontend-blue-deployment file
+
+        <img width="1817" height="508" alt="image" src="https://github.com/user-attachments/assets/e251ea5f-8244-4d52-b11d-dc5f576e6152" />
+
+ frontend-green-deployment file
+    <img width="1819" height="499" alt="image" src="https://github.com/user-attachments/assets/4db7dfe9-261b-4a03-bcc0-5f8508c2cc83" />
+
 
 
 Backend pods running
